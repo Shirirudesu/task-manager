@@ -25,6 +25,7 @@ export default [
         // 3. Твои кастомные правила
         rules: {
             'no-console': 'off', // Запрещаем console.log, как ты и просил
+            'no-unused-vars': 'warning',
         },
     },
 ];
